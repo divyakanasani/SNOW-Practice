@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Learnings" max_length="40" name="x_81179_my_first_a_learnings" type="collection">
+        <element label="Refer links" max_length="3000" name="refer_links" type="file_attachment"/>
+        <element label="Refer links2" max_length="3000" name="refer_links2" type="url"/>
+    </element>
+</database>

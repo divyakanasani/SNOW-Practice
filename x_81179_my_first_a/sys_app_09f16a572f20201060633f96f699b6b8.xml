@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>false</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_category>none</license_category>
+        <license_model>none</license_model>
+        <logo>daf1a6132f20201060633f96f699b6a3</logo>
+        <menu/>
+        <name>My First Application</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_81179_my_first_a</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Learning started yayy!</short_description>
+        <source>x_81179_my_first_a</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-23 14:00:00</sys_created_on>
+        <sys_id>09f16a572f20201060633f96f699b6b8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-23 14:00:06</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>nerdy image.png</file_name>
+        <hash>7f69720237efc73a8a1bc66f41b5921c2432434c1607f453fd888dd6bf12f8c0</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>3203</size_bytes>
+        <size_compressed>3226</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-23 14:00:05</sys_created_on>
+        <sys_id>daf1a6132f20201060633f96f699b6a3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-11-23 14:00:06</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>09f16a572f20201060633f96f699b6b8</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="nerdy image.png" sys_id="daf1a6132f20201060633f96f699b6a3">daf1a6132f20201060633f96f699b6a3</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-23 14:00:05</sys_created_on>
+        <sys_id>1ef1a6132f20201060633f96f699b6a3</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>AYMMfPOJUE5HDQoaCgAAAA1JSERSAAACBAAAAGIIAwAAABjuO8oAAAB+UExURQAAAP///6ysrOfn55ubm+Dg4FpaWpKSkqenpy4uLtXV1Tc3N/v7+76+vvDw8MbGxg4ODmxsbEBAQCMjI319ffb29rKystPT02RkZI2NjYCAgKGhoVNTUykpKcPDw9vb23Z2dkZGRjs7OxkZGRQUFGhoaF9fX1VVVSsrK0VFRW6zU7QAAAvASURBVHic7Z39Q7IwEMdBtMwMU0OzTK2eXvz//8FHxoC7vd5gSNa+vxXIxviw3e5uI4r86Lhf33i6VNBl6t8uPmnVdzWCetQw5tr0XZOgnjRP40rJZ9+1CepBx0mMNAumwZ/TKpY07rtOQWfVRkbgpOyp73oFnU2fqZKB3DTY9l23oLPoZq1DgJkGy77rF9S9BiYEcg37rmFQx3qa2hiI4/TQdy2DOtTVyI5Arv1r3zUN6kjfMxoCue7+9V3boC40piOQ67rv+gZ51yFzY+BkGnz0Xecgr3olGgNYk9u+6x3kTe93TRDIFYLMv0VD+8PWahqCzL9BB62PmKYQZL54LfbtEMgV8s8uW4qAcROFIPPl6toPAidNQ5D5MvXY0hjACkHmC9StMWDcRCHIfGmyBoyb6OBej8NqwKUYUJ4HlXj8ejgwa8Wq8LZSHBoON18yph+qU5+H14fFvfvNuOhRU/BcU/C8Pn9VuGqXlrYYrMxvJSVg3EANMg2AZfooHQSe7LT4T2KrAvNefWoPJ3dzXITBR5Ks5mKFPMpYsMIhD9/aZ/afG1tbxCaH7pW1KaFWO/KpDSCA9ybVGaa8F/+xercZBFemM7IxDICaHWXTu4X7LdFkNsqnK7FgGN4r2rkNBC8OAeMic+CLGlhoCUEqHuwEAuzltHpLZx1hYJ2ZrfEj9ArBs/WnQNmh+BFx+GgJQbwXDnYEwamBqyIILvNunCCE6Tkq2CMEbgHj5/qHJEOyLQRiPKozCOpOhxI3Sd7d78sqio9mBAr2BoFbwHiHkoe+CVPK1hAIax67g6C8HjF41kE2Hc1RVz9GTxC4BYxHkvPn0WpPtocATxE6hKDsdIgRVP+GAdFbWz1HPxA4BYyzB1XFNxbTwAMEMQxGdQlBvHVplcz7iECEICvP9wHB3MlHrLWFzAEnHxDAKYIZgv1E1p5lPiIIMi6xoAm7IPXVmGjq//45HK8G48Mb+u+i1q0GH2rcprRhzRBka1Vj4Oju60S8tkmm9ccL05V8QACb2wyBvpYQgmn5z5u54PBgzw1CsIuWhRZfG2kerUye+agNpQQk3v5Dv8zWG4UTEEKwui8L3l5Lphf3pJoh0DFa697JGEiuzFcz9CleIABTBDME+nFaCcFJRzScsdpCCO7gNe6FufQ0knSLczGm1RB6Lw2bcstACAamgvmAYIZAnFwbi7OLkC6m7UL9QFBXwTcEeBidiPdyh6/ygg1h6ebmUsXLC8gQyE9JC8GplrjgootpBYF+hbFKxMRRjdPREwTxFz/oHQLZQWmAIIrQmy76Mw+Kis+KQwoIgH+qkAECwf4tCm4BgVvAeELNE1M1QKwKAVmldkK9FAf9Q/AFS8lNNiMEEbImcS7lUVnxwqJWQRAL8y0jBLhg9k40h8ApYJzQF5M8qH7fKP1cXUP+yM0QvGkvqocggqXkqJkheNTfX1mT5HBi6auyuphbiUOwvzkeF4/lEJ/gS5shQEMNO9wUAtu0HstlWZkCgrX+mZikwbToPM0QXN1K4hf1BgEqbwQPlH1h+fzKIlnFOQR8BFjwQ3j1phkCFDNnBVsgWIpN8cZ6U7uDD+rOKYdCgsChF8HS9VWsXZydRfwm9BDcwrPznAsLBGjbHnhgL/6kzGHIR1QMQcS7CZydYIEA1ovND5ydRbv8nCfzOUiuS81FCIRe5IG+PE07YOXTY1cIplYIYNNnYmMrIEDQfNf/X/J/AU/QrG4KAQJe6EFbEwUEC3CYef6cIeB3Q3UPuG86gSEQepHj3mGeoLdatl1AAA0udkkLBOgHwDLkJczAmdx+yF9AAQJ+j049ARq3cg93UwiiLWlEaDCxgxDsj/hYgV5qcTmVghAIT/iffwjQ1JYZejYIYAuCLEg+TCCnCr+JSIKAg4SnXjYI4Mw+b8vGEFAcRThgTFQNQSbk4dUF7khXghBcYZd06hsCYcEde7EbQsBN/gM8tfiXBMEHLzWLkGwQwDvNi2kBQfRudhQIAeN34mBeQSD0Ih+omSkLUiAEHxF+SjPwBBpDEJehFfGnhQ+mIQTXijvkLRrVfgIUthKaygYBLDj3v7SBwOjrFzen3FDdPRyCHY6QvYnAjez2JoRgHr1pq9ocAp2Ke7dBABsPdHp8Hg+fHjfl8tdf5SwS3ARONkHL4UBqaCghYPyZiF4xrRgEQi9yrwozq25PW7e5yh+P29B9iqgTd69YIFjCnwDjh9MKXcl8hMgbVQFBJq4BsEBwD3+cu2DaQqBeeiwEjG+Y0USHQOpF1J6pMlVVJwECrRGjgCBNJNEhmHLPtAUCBCU8wHsI0Aj8/vO3VoZgJ7lhLBAgx3ze4ZohmEpNkcoXldKFxYAxL4MIwZOqF9Fo/a2+RiERAt28tnE+gUblQGWBAKYgoAhS6QyuesM9OEmCQBGHtkAA5zHsmi1DyYVw4woB46fSgCFCsMU+4hez9Wmag0oQaHr8xgEkpabVb80QoNEAOgXqvJHi5qr1PKxrKGMHt68L/uzEGKINghdYMKuXFwiibW3jCKEe4E5otOuIde+79Ev7WxmCSJkV7xUCMHs1Q4D8Cnj8qx3K69msatoivgCniLxtpTQNMwTorXoQG7k5BFW5wsYiS3inDSAgLUzRhiYUECinCB4hmMI5ixECbKAIt6BanTctzD8IwTc/JA5eRghw2g4r2BcE0XIt7z6Ik5mcISAvUdM4DRQQKKcIPnsCODyZIMCPQnJ+yZk1GR8lkbOIdxkj4dcmCPAzKarlDYKT0SmMz+KKJEcIlg7rGkfKMUEFgSp/rTkEq7uTVohV8Es9BGI+jlycWM1J6TbBbmNuMpKdRW9CLm/hwPMIAdarNHV0g8BtXaNyKYMSAkVXq4BA791UuI3fFRfLpYFgORfxVnmSbuFJo0P1fz7J50+mNPKwWwVCAKZa2oI7gkC1IskFAre9757VF1FDIE8RFBA8Xys0zAd8VewABT7rVw9CkO5mTOu9bJtO1SGW5WaXpGmaTJ6hoXH/PM5VGoNz9tcYD4gQgoQXPBvJTVqGHMwQJBtVY9jzhJQ5w3QI5F7EpNmL5jIaCN7Fx0BdgcRMaWUACb1h1VtJXXzSIH3SLGoOeOnPabICKdYXz6RJQiYGgOm5CkyGTa00EESv4iWKf7eAAHlwqpAeEQL/W7oTIaimll1A0C5p3Gkpg3F7Ox0EYkJzewjwpKMc4mkQdLBFAa0Ja/jOCEGc6P06lT6cjAFzDEkLgWB1eoAA9158pkyCoIv9m0kQgNfnnBDYv4S6cFrKsLZkKOghwFX0AQHyRfIBgQBB2sm3fggQoILPC4G581MGjLVKrPaUAQKUV+EFArSrWREKsEOgmda0lR0CXPC5IdBM6XO5LWUgdKMmCJbgzfUCAV5Zz27SAsF00NUOnRYIsrHgpT47BKp9SnIZAsYKkVYkmSCItvWxxhDghkDWjLjuQFQ2O1BuoZlMEKgK7gECVQKqy8fS4nhC2+HFCEH0UCWOcBfsTE4kEXIp8otsQb4J9tnDI2lO6UaRmnLSfj3YdLaFIZO24PGTci3XsD4/LXrYb1tbJGJKmyjCAxUGQ6d1jSl1M9D6qlPtGBTUkShvNUwnd9sIl+5bqSAIn0w4v2hd+4TnVtJWsZRy+XAmh0DrVg7qUNTxPX+gS/ruxiftnT58wCAIn1HqR3Qjb+O0913qOLIPwgfV+pOTpU+Xs2dlFT6t2J86+ehFg5H96Wg/J6gr+f0CUq7wFaQLlL9voeUK30O7UDX+RLIs66LDoJ8qH99HzRW+kXrRavul5Fz2gHHQD1ebb6bnCtP836BlK9Ng1fH3A4POpK3TZ3GgiAHjoEvQQ6OvZWZNt7AM+pmyri+X1WDvu6CfLbePZrpuhBt0IXL5fK7rRrhBFyNqMrFtO6qgixZpWUFHqfhBP0X2b6WEVLA/IPNXkyiLFYN+gfRB5hAw/kPSmAYhYPynpAoyh4Dxn5MYZA4B4z8pGGQOAeO/qjrIHPLC/7BeWZB50uybh0G/RYc0GAMXq/8TyKP+RYY5JwAAAABJRU5ErkJggmo/QzKDDAAA</data>
+        <length>4288</length>
+        <position>1</position>
+        <sys_attachment display_value="nerdy image.png" sys_id="daf1a6132f20201060633f96f699b6a3">daf1a6132f20201060633f96f699b6a3</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-23 14:00:05</sys_created_on>
+        <sys_id>9ef1a6132f20201060633f96f699b6a3</sys_id>
+    </sys_attachment_doc>
+</record_update>
