@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="refer_links" label="Refer links" language="en" table="x_81179_my_first_a_learnings">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>refer_links</element>
+            <help/>
+            <hint/>
+            <label>Refer links</label>
+            <language>en</language>
+            <name>x_81179_my_first_a_learnings</name>
+            <plural>Refer links</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-23 14:09:33</sys_created_on>
+            <sys_id>85242ed72f60201060633f96f699b62d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Refer links</sys_name>
+            <sys_package display_value="My First Application" source="x_81179_my_first_a">09f16a572f20201060633f96f699b6b8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My First Application">09f16a572f20201060633f96f699b6b8</sys_scope>
+            <sys_update_name>sys_documentation_x_81179_my_first_a_learnings_refer_links_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-23 14:09:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
